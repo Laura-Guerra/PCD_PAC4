@@ -1,0 +1,4 @@
+sentiment,id,date,query,user,text
+0,1,2023-06-01,NO_QUERY,user1,I'm feeling great today!
+1,2,2023-06-02,NO_QUERY,user2,This is an amazing day!
+0,3,2023-06-03,NO_QUERY,user3,Feeling a little tired.

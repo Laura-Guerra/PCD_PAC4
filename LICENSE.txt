@@ -1,0 +1,7 @@
+PAC4 of Programació per a la Ciència de Dades (c) by Laura Guerra Rivas
+
+PAC4 of Programació per a la Ciència de Dades is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+ To view a copy of this license, visit 
+ <http://creativecommons.org/licenses/by-nc/4.0/>.
